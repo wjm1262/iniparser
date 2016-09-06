@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <unistd.h>
+//#include <unistd.h>
 
-#include "iniparser.h"
+#include "..\src\iniparser.h"
 
 void create_example_ini_file(void);
 int  parse_ini_file(char * ini_name);

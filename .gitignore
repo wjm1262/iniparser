@@ -9,3 +9,4 @@
 # Autogenerate source file
 /test/AllTests.c
 /test/testrun
+/vcpro
